@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<preference name="phonegap-version" value="cli-6.4.0" />
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
   <name>ITEM MASTER</name>
   <description>This is the best app ever.</description>
